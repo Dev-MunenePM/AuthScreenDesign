@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Movistar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="email_or_username">Email or Username</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="submitemail">Submit email to reset password</string>
+    <string name="account_reset">Enter your email to reset password</string>
+    <string name="forgetPassword">Forget Password?</string>
+</resources>
